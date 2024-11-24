@@ -2,7 +2,7 @@
 layout: page
 title: Weather Clock (Sep 2019)
 description: 
-img: 
+img: assets/img/tb-weatherclock.png
 importance: 1
 category: school
 ---
