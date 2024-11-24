@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /cv/
-title: Past Experiences
+title: cv
 nav: true
 nav_order: 5
 ---
