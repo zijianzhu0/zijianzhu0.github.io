@@ -1,3 +1,11 @@
+# "Getting started" note for Zijian 
+1. Pull repo
+2. Run `docker compose pull`
+3. Run `docker compose up -d` to run docker container detached.
+   1. the container will automatically build the site whenever any file changes, exepct `_config.yml`.
+   2. you need to restart the container to build with an updated `_config.yml`.
+4. Run `docker compose down` to tear down the container. 
+
 # al-folio
 
 <div align="center">
@@ -221,6 +229,7 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
 
 ## Table Of Contents
 
+- ["Getting started" note for Zijian](#getting-started-note-for-zijian)
 - [al-folio](#al-folio)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
