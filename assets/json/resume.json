@@ -1,62 +1,38 @@
 {
-  "basics": {
-    "name": "Zijian Zhu",
-    "location": {
-      "address": "Tucson, AZ",
-      "postalCode": "85747",
-      "countryCode": "US"
-    },
-    "summary": "Master’s degree in Electrical Engineering, with 3 years of automotive industry experience. Highly self-sufficient, results-driven, and customer-centric electrical engineer. Experienced in analyzing and documenting system requirements for autonomous driving systems, creating and executing electrical test requirements, and collaborating in cross-functional environments.",
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "zijianzh",
-        "url": "https://www.linkedin.com/in/zijianzh/"
-      }
-    ]
-  },
   "work": [
+    {
+      "name": "Applied Intuition Inc.",
+      "position": "Hardware Engineering",
+      "location": "Mountain View, CA",
+      "startDate": "2024-04"
+    },
     {
       "name": "TuSimple Inc.",
       "position": "Electrical Engineer II",
       "location": "Tucson, AZ",
       "startDate": "2022-02",
-      "summary": "Defined power system requirements, conducted power analysis, and collaborated on high-power systems for autonomous driving.",
-      "highlights": [
-        "Defined power system requirements, CAN dbc, and devised functionality test plans and reports.",
-        "Performed power budget analysis for level-4 automated driving systems.",
-        "Developed multi-kW DC-DC converters with diagnostics capabilities.",
-        "Defined requirements for a 64-hard drive array docking system and a sensor cleaning system.",
-        "Triaged x86-based Linux server issues and created troubleshooting guides.",
-        "Identified and addressed gaps between product and requirements."
-      ]
+      "endDate": "2024-02"
     },
     {
       "name": "Ecotron LLC.",
       "position": "Project Engineer",
       "location": "Whittier, CA",
       "startDate": "2020-08",
-      "endDate": "2022-02",
-      "summary": "Managed ECU development processes, translated safety documents, and performed diagnostics and testing.",
-      "highlights": [
-        "Extracted 20,000+ email addresses with Python for CRM purposes.",
-        "Translated functional safety documents for vehicle control units.",
-        "Oversaw ECU product development and maintained clear communication with clients.",
-        "Tested and diagnosed vehicle controllers with MATLAB Simulink and lab equipment.",
-        "Led a half-million-dollar ECU development project as the primary point of contact."
-      ]
+      "endDate": "2022-02"
+    },
+    {
+      "name": "Michigan Technological University",
+      "position": "Photographer",
+      "location": "Houghton, MI",
+      "startDate": "2017-06",
+      "endDate": "2020-5"
     },
     {
       "name": "Michigan Technological University",
       "position": "Maker Coach",
       "location": "Houghton, MI",
       "startDate": "2016-04",
-      "endDate": "2019-12",
-      "summary": "Supported students and community makers in DIY projects while ensuring safety and training on technical tools.",
-      "highlights": [
-        "Trained makers on power tools, soldering irons, CNC machines, and 3D printers.",
-        "Assisted with diverse DIY projects for students and the community."
-      ]
+      "endDate": "2019-12"
     }
   ],
   "education": [
@@ -64,59 +40,9 @@
       "institution": "Michigan Technological University",
       "area": "Electrical Engineering",
       "studyType": "Master of Science",
-      "endDate": "2020-05",
-      "courses": [
-        "In-vehicle Communication Networks",
-        "Software Defined Networks",
-        "Machine Learning"
-      ]
-    },
-    {
-      "institution": "Michigan Technological University",
-      "area": "Electrical Engineering",
-      "studyType": "Bachelor of Science",
-      "endDate": "2018-05"
-    }
-  ],
-  "skills": [
-    {
-      "name": "Programming",
-      "keywords": ["Python", "C", "MATLAB", "MATLAB Simulink", "Javascript"]
-    },
-    {
-      "name": "Engineering Software",
-      "keywords": ["CANalyzer", "CANdb++", "Linux Shell", "Docker", "KiCAD"]
-    },
-    {
-      "name": "Engineering Design",
-      "keywords": ["CAN network", "CAN DBC", "ICDe capture", "Electrical system architecture"]
-    },
-    {
-      "name": "Lab Equipment",
-      "keywords": ["Multimeter", "Oscilloscope", "Signal Generator", "Programmable Source/Load"]
-    },
-    {
-      "name": "Office Applications",
-      "keywords": ["MS Office", "LucidChart", "Jira", "Confluence", "Google Workspace"]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Software-Defined Underwater Acoustic Communication System",
-      "summary": "Simulated and evaluated underwater communication systems using GNU Radio.",
-      "highlights": [
-        "Simulated a communication system with GNU Radio and a sound card in Ubuntu.",
-        "Improved performance with channel estimation and equalization.",
-        "Extracted metadata from field experiment logs using Python."
-      ]
-    },
-    {
-      "name": "Shuttle Display",
-      "summary": "Led a team to design and prototype an LED display panel for a campus shuttle system.",
-      "highlights": [
-        "Designed system requirements and translated them into PCB design.",
-        "Developed and assembled customized LED displays and Arduino drivers."
-      ]
+      "location": "Houghton, MI",
+      "startDate": "2018-09",
+      "endDate": "2020-05"
     }
   ]
 }
