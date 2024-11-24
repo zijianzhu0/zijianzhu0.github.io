@@ -2,7 +2,7 @@
 layout: page
 title: Machine Learning (Mar 2019)
 description: 
-img: assets/img/machine-learning.png
+img: assets/img/tb-machine-learning.png
 importance: 1
 category: school
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: SDR Underwater Acoustic Communication System (May 2020)
 description: 
-img: 
+img: assets/img/tb-sdr.png
 importance: 1
 category: school
 ---
