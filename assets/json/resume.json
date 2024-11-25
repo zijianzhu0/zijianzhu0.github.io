@@ -1,0 +1,48 @@
+{
+  "work": [
+    {
+      "name": "Applied Intuition Inc.",
+      "position": "Hardware Engineering",
+      "location": "Mountain View, CA",
+      "startDate": "2024-04"
+    },
+    {
+      "name": "TuSimple Inc.",
+      "position": "Electrical Engineer II",
+      "location": "Tucson, AZ",
+      "startDate": "2022-02",
+      "endDate": "2024-02"
+    },
+    {
+      "name": "Ecotron LLC.",
+      "position": "Project Engineer",
+      "location": "Whittier, CA",
+      "startDate": "2020-08",
+      "endDate": "2022-02"
+    },
+    {
+      "name": "Michigan Technological University",
+      "position": "Photographer",
+      "location": "Houghton, MI",
+      "startDate": "2017-06",
+      "endDate": "2020-5"
+    },
+    {
+      "name": "Michigan Technological University",
+      "position": "Maker Coach",
+      "location": "Houghton, MI",
+      "startDate": "2016-04",
+      "endDate": "2019-12"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Michigan Technological University",
+      "area": "Electrical Engineering",
+      "studyType": "Master of Science",
+      "location": "Houghton, MI",
+      "startDate": "2018-09",
+      "endDate": "2020-05"
+    }
+  ]
+}
